@@ -4,7 +4,7 @@ import './BootcampCertificate.css';
 
 function BootcampCertificate() {
     return (
-        <div className="text-center pb-4 mb-5 opacity">
+        <div className="text-center pt-4 opacity">
             <Image src="badge2.png" alt="University of Arizona Badge" />
         </div>
     );
