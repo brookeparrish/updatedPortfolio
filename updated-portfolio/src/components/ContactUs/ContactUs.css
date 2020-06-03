@@ -1,0 +1,12 @@
+.btn {
+    color: blueviolet !important;
+}
+
+.default {
+    border-color: blueviolet;
+}
+
+.btn:hover {
+    background-color: blueviolet;
+    color: black !important;
+}
