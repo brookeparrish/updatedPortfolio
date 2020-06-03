@@ -3,3 +3,9 @@
     color: white;
     padding-bottom: 0px;
 }
+
+.projectName {
+    font-family: 'Rochester', cursive;
+    font-size: 100pt;
+    color: white;
+}

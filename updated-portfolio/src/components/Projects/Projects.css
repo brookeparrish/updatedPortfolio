@@ -1,5 +1,5 @@
 .card {
-    background-color: rgba(255,255,255, 0.6);
+    background-color: rgba(255,255,255, 0.9);
 }
 
 .card-text {
@@ -27,4 +27,8 @@ a:hover {
 
 .bold {
     font-weight: 700 !important;
+}
+
+.card-body {
+    font-family: 'Poppins', sans-serif !important;
 }
