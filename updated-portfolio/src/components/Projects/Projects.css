@@ -1,5 +1,5 @@
 .card {
-    background-color: rgba(255,255,255, 0.4);
+    background-color: rgba(255,255,255, 0.6);
 }
 
 .card-text {
@@ -23,4 +23,8 @@
 a:hover {
     background-color: #007bff;
     color: black;
+}
+
+.bold {
+    font-weight: 700 !important;
 }
